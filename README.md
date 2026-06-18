@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sayandeeydey06/sayandeeydey06/main/banner.png" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Sayandeep Dey</h1>
 
 <h3 align="center">
