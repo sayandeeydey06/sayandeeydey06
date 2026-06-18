@@ -16,19 +16,17 @@ Cloud Developer • Full Stack Developer • AI Enthusiast
 
 ## 🚀 About Me
 
-🎓 B.Tech in Information Technology (2021–2025)
+Cloud & Full Stack Developer with hands-on experience building AWS serverless applications, AI-powered platforms, and modern web solutions.
 
-☁️ AWS Certified Solutions Architect – Associate (843)
+☁️ AWS Certified Solutions Architect – Associate
 
-💻 Full Stack Developer specializing in React, FastAPI, Node.js
+🔹 Built an AI-powered AWS Cost Optimization Platform using FastAPI, LangChain, Gemini, and AWS Cost Explorer
 
-🤖 Passionate about AI-powered applications and cloud technologies
+🔹 Developed Financial Document Intelligence and Serverless File Upload Systems on AWS
 
-📈 Interested in FinOps, Serverless Architecture, and AWS Solutions
+🔹 Passionate about Cloud Computing, FinOps, AI Applications, and Scalable System Design
 
-🌱 Currently learning advanced AWS architecture patterns
-
-📫 Email: **sayandeepdey2919@gmail.com**
+📫 Reach me: sayandeepdey2919@gmail.com
 
 ---
 
