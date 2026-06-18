@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Dey</h1>
 
 <h3 align="center">
-AWS Certified Solutions Architect – Associate (843) <br>
-Cloud & Full-Stack Developer
+AWS Certified Solutions Architect – Associate (Score: 843)
 </h3>
 
 <p align="center">
-Building scalable cloud applications, serverless architectures, AI-powered systems, and modern web experiences.
+Cloud Developer • Full Stack Developer • AI Enthusiast
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AWS+Certified+Solutions+Architect;Cloud+Developer;Full+Stack+Developer;Building+AI-Powered+Applications;Serverless+Architecture+Enthusiast" />
 </p>
 
 ---
@@ -15,56 +18,125 @@ Building scalable cloud applications, serverless architectures, AI-powered syste
 
 🎓 B.Tech in Information Technology (2021–2025)
 
-☁️ AWS Certified Solutions Architect – Associate
+☁️ AWS Certified Solutions Architect – Associate (843)
 
-💻 Full Stack Developer (React, FastAPI, Node.js)
+💻 Full Stack Developer specializing in React, FastAPI, Node.js
 
-🤖 Interested in AI Applications and Cloud Computing
+🤖 Passionate about AI-powered applications and cloud technologies
 
-🌱 Currently learning advanced AWS architecture and FinOps
+📈 Interested in FinOps, Serverless Architecture, and AWS Solutions
 
-📫 Reach me at: sayandeepdey2919@gmail.com
+🌱 Currently learning advanced AWS architecture patterns
+
+📫 Email: **sayandeepdey2919@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sayandeeydey06">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:sayandeepdey2919@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Cloud
-AWS • S3 • Lambda • API Gateway • IAM • EC2 • VPC
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,python,fastapi,react,nodejs,js,html,css,tailwind,git,github,docker,vscode" />
+</p>
 
-### Backend
-Python • FastAPI • Node.js • Express.js
+---
 
-### Frontend
-React • JavaScript • HTML • CSS • Tailwind CSS
+## ☁️ AWS Skills
 
-### AI & Data
-Gemini API • LangChain • Pandas • NumPy • OCR
+- Amazon S3
+- AWS Lambda
+- API Gateway
+- IAM
+- EC2
+- VPC
+- CloudWatch
+- Route 53
+- DynamoDB
+- AWS Cost Explorer
 
-### Tools
-Git • GitHub • Docker • Postman
+---
+
+## 🏆 Certifications
+
+### AWS Certified Solutions Architect – Associate
+
+Score: **843 / 1000**
 
 ---
 
 ## 🌟 Featured Projects
 
-### AWS Cost Optimization Platform
-AI-powered FinOps platform for analyzing AWS cloud spending and generating optimization recommendations.
+### ☁️ AWS Cost Optimization Platform
 
-### Financial Document Intelligence Platform
-OCR + AI-powered system for extracting and analyzing financial documents.
+AI-powered FinOps platform that analyzes AWS cloud spending and generates optimization recommendations using AWS Cost Explorer, FastAPI, LangChain, and Gemini.
 
-### Secure Serverless File Upload System
-AWS serverless architecture using S3, Lambda, API Gateway, and pre-signed URLs.
+### 🤖 Financial Document Intelligence Platform
 
----
+AI-powered document analysis system using OCR, Gemini AI, FastAPI, Pandas, and NumPy.
 
-## 📊 GitHub Stats
+### 🔐 Secure Serverless File Upload System
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sayandeeydey06&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sayandeeydey06&layout=compact)
+Serverless AWS application using S3, Lambda, API Gateway, IAM, and Pre-Signed URLs for secure uploads.
 
 ---
 
-⭐ AWS | Cloud | Full Stack | AI
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sayandeeydey06&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayandeeydey06&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sayandeeydey06&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayandeeydey06&theme=tokyo-night"/>
+
+</p>
+
+---
+
+## 💡 Career Objective
+
+Passionate Cloud & Full Stack Developer focused on building scalable cloud-native applications, AI-powered systems, and serverless architectures that solve real-world business problems.
+
+---
+
+<p align="center">
+⭐ If you like my projects, feel free to star them!
+</p>
