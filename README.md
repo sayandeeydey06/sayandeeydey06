@@ -3,6 +3,9 @@
 <h3 align="center">
 AWS Certified Solutions Architect – Associate 
 </h3>
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 <p align="center">
 Cloud Developer • Full Stack Developer • AI Enthusiast
