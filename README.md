@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayandeep Dey</h1>
 
 <h3 align="center">
-AWS Certified Solutions Architect – Associate (Score: 843)
+AWS Certified Solutions Architect – Associate 
 </h3>
 
 <p align="center">
