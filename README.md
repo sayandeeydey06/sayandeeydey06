@@ -23,7 +23,7 @@ Building scalable cloud applications, serverless architectures, AI-powered syste
 
 🌱 Currently learning advanced AWS architecture and FinOps
 
-📫 Reach me at: your-email@example.com
+📫 Reach me at: sayandeepdey2919@gmail.com
 
 ---
 
