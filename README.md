@@ -60,7 +60,7 @@ Cloud Developer • Full Stack Developer • AI Enthusiast
 
 ---
 
-## ☁️ AWS Skills
+## ☁️ Cloud & AWS
 
 - Amazon S3
 - AWS Lambda
@@ -71,7 +71,33 @@ Cloud Developer • Full Stack Developer • AI Enthusiast
 - CloudWatch
 - Route 53
 - DynamoDB
-- AWS Cost Explorer
+
+## 💻 Full Stack
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Node.js
+- Express.js
+- FastAPI
+
+## 🤖 AI & Data
+
+- Gemini API
+- LangChain
+- Tesseract OCR
+- Pandas
+- NumPy
+
+## 🛠️ Tools
+
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
 
 ---
 
