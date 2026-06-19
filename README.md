@@ -53,7 +53,7 @@ Cloud & Full Stack Developer with hands-on experience building AWS serverless ap
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,python,fastapi,react,nodejs,js,html,css,typescript,langchain,tailwind,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=aws,python,fastapi,react,nodejs,js,html,css,typescript,tailwind,git,github,docker,vscode" />
 </p>
 
 ---
