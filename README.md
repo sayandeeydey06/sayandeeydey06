@@ -58,44 +58,23 @@ Cloud & Full Stack Developer with hands-on experience building AWS serverless ap
 
 ---
 
-## ☁️ Cloud & AWS
+## 🛠️ Tech Stack
 
-- Amazon S3
-- AWS Lambda
-- API Gateway
-- IAM
-- EC2
-- VPC
-- CloudWatch
-- Route 53
-- DynamoDB
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,python,fastapi,react,nodejs,js,html,css,tailwind,git,github,docker,vscode" />
+</p>
 
-## 💻 Full Stack
+### ☁️ Cloud & DevOps
 
-- React.js
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Node.js
-- Express.js
-- FastAPI
+AWS • S3 • Lambda • API Gateway • IAM • EC2 • VPC • CloudWatch • Route53
 
-## 🤖 AI & Data
+### 💻 Full Stack
 
-- Gemini API
-- LangChain
-- Tesseract OCR
-- Pandas
-- NumPy
+React • JavaScript • Node.js • Express.js • FastAPI • REST APIs
 
-## 🛠️ Tools
+### 🤖 AI & Data
 
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
+Gemini API • LangChain • Pandas • NumPy • Tesseract OCR
 
 ---
 
